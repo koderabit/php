@@ -16,6 +16,7 @@
         }
         li {
             list-style: inside circle;
+            line-height: 1.7em;
         }
     </style>
     <title>Variáveis e Constantes</title>
